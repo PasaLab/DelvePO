@@ -1,0 +1,8 @@
+deepseek-r1-8b:
+  default:
+    api_base:
+    api_key:
+gpt-4o-mini:
+  default:
+    api_base: 
+    api_key: 
